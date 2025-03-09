@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hero-api-test", "hero-api-test.csproj", "{D032E304-BBF2-7F7F-9B4B-7A4B15E09D28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D032E304-BBF2-7F7F-9B4B-7A4B15E09D28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D032E304-BBF2-7F7F-9B4B-7A4B15E09D28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D032E304-BBF2-7F7F-9B4B-7A4B15E09D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D032E304-BBF2-7F7F-9B4B-7A4B15E09D28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62B5FD83-6037-45B1-BB81-8D30FD339192}
+	EndGlobalSection
+EndGlobal

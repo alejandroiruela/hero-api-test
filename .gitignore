@@ -1,0 +1,11 @@
+#Ignore Folders
+obj/
+bin/
+
+#Ignore files
+appsettings.Development.json
+
+
+#Ignore user files
+*.user
+.suo

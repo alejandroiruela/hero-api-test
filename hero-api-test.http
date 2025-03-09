@@ -1,0 +1,6 @@
+@hero_api_test_HostAddress = http://localhost:5267
+
+GET {{hero_api_test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
